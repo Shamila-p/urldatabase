@@ -1,0 +1,15 @@
+############################################################################################
+####################################  architecture #########################################
+############################################################################################
+
+Class Name : urldatabase
+	Class Members:
+		urlDb : HashMap<String, String[]>
+		generateShortkey(String)
+		storeurl(String)
+		get(String)
+		count(String)
+		list()
+		main(String[])
+					
+		
